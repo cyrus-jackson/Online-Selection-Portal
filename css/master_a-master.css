@@ -1,0 +1,553 @@
+#u100
+{
+	-pie-background: linear-gradient(left,#001510 ,#00BF8F 100%);
+	background-size: 100% auto;
+}
+
+#u100:hover
+{
+	-pie-background: linear-gradient(left,#001510 ,#00BF8F 100%);
+}
+
+#u161
+{
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+	background-color: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
+#u632
+{
+	-pie-background: rgba(232,230,230,0.8);
+}
+
+#u616
+{
+	background-color: #E8E6E6;
+}
+
+#u710-6
+{
+	background-color: transparent;
+}
+
+#u710-4
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u710-2
+{
+	line-height: 17px;
+}
+
+#u710-3
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u645:hover
+{
+	background-color: #3C63FF;
+}
+
+#u643:hover
+{
+	background-color: #00BFEC;
+}
+
+#u646,#u644
+{
+	display: block;
+}
+
+#u694-4
+{
+	border-color: transparent;
+	color: #6A6A6A;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u698,#u640,#u645,#u643,#widgetu1088
+{
+	border-color: transparent;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#widgetu1088.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+#u1091-4
+{
+	color: #000000;
+	background-color: transparent;
+	border-width: 0px;
+	border-radius: 10px;
+}
+
+#u1090-5
+{
+	line-height: 14px;
+	background-color: #FFFFFF;
+	text-align: center;
+	border-width: 0px;
+	border-radius: 10px;
+}
+
+#widgetu1088_input,#widgetu1088_prompt
+{
+	text-align: center;
+}
+
+#widgetu1088.non-empty-st #widgetu1088_prompt,#widgetu1088.focus-st #widgetu1088_prompt
+{
+	visibility: hidden;
+}
+
+#u161:hover,#widgetu1083.frm-sub-st #u1086-4,#widgetu1083.frm-subm-err-st #u1085-4
+{
+	opacity: 1;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+#u1086-4,#u1085-4,#u1084-4
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	background-color: transparent;
+	border-width: 0px;
+	opacity: 0;
+}
+
+#u1087-21
+{
+	background: transparent url("../images/u1087-21.png") no-repeat 0px 0px;
+}
+
+#u1087-21:hover
+{
+	background: transparent url("../images/u1087-21-r.png") no-repeat 0px 0px;
+}
+
+#u1087-21:active
+{
+	background: transparent url("../images/u1087-21-m.png") no-repeat 0px 0px;
+}
+
+#widgetu1083.frm-sub-st #u1087-21
+{
+	background: transparent url("../images/u1087-21-fs.png") no-repeat 0px 0px;
+}
+
+@media (min-width: 901px)
+{
+	#u100
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#001510),color-stop(100%, #00BF8F));
+		background: -webkit-linear-gradient(left,#001510 ,#00BF8F 100%);
+		background: linear-gradient(to right,#001510 ,#00BF8F 100%);
+	}
+
+	#u100:hover
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#001510),color-stop(100%, #00BF8F));
+		background: -webkit-linear-gradient(left,#001510 ,#00BF8F 100%);
+		background: linear-gradient(to right,#001510 ,#00BF8F 100%);
+	}
+
+	#u237
+	{
+		vertical-align: top;
+	}
+
+	#u237_states
+	{
+		float: left;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u237_states.png") no-repeat 0px 0px;
+	}
+
+	#u237:hover #u237_states
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u237_states-r.png") no-repeat 0px 0px;
+	}
+
+	#u238
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u238.png") no-repeat 0px 0px;
+	}
+
+	#u238:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u238-r.png") no-repeat 0px 0px;
+	}
+
+	#u245
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u245.png") no-repeat 0px 0px;
+	}
+
+	#u245:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u245-r.png") no-repeat 0px 0px;
+	}
+
+	#u137
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u137.png") no-repeat 0px 0px;
+	}
+
+	#u137:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u137-r.png") no-repeat 0px 0px;
+	}
+
+	#u103
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u103.png") no-repeat 0px 0px;
+	}
+
+	#u103:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u103-r.png") no-repeat 0px 0px;
+	}
+
+	#u632
+	{
+		background-color: #ECEBEB;
+		background-color: rgba(232,230,230,0.8);
+	}
+
+	#u248,#u236,#u143,#u1126
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+	}
+
+	#u1069-5
+	{
+		-webkit-transition-duration: 0s;
+		-webkit-transition-delay: 0s;
+		transition-duration: 0s;
+		transition-delay: 0s;
+		background-image: url("../images/blank.gif");
+		background-color: transparent;
+		line-height: 18px;
+		font-size: 18px;
+	}
+
+	#u1069
+	{
+		text-align: left;
+	}
+
+	#u1069-3
+	{
+		text-align: center;
+	}
+
+	#u1077-5
+	{
+		-webkit-transition-duration: 0s;
+		-webkit-transition-delay: 0s;
+		transition-duration: 0s;
+		transition-delay: 0s;
+		background-image: url("../images/blank.gif");
+		background-color: transparent;
+		font-size: 18px;
+		text-align: center;
+		line-height: 16px;
+	}
+
+	#u1069-5:hover,#u1077-5:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: linear;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: linear;
+		-pie-box-shadow: none;
+		box-shadow: none;
+		background-color: #6A6A6A;
+	}
+
+	#u1069-5:hover p,#u1077-5:hover p
+	{
+		font-size: 18px;
+	}
+
+	#u100_align_to_page,#u632_align_to_page,#u616_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+}
+
+@media (max-width: 900px)
+{
+	#u100
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#001510),color-stop(100%, #00BF8F));
+		background: -webkit-linear-gradient(left,#001510 ,#00BF8F 100%);
+		background: linear-gradient(to right,#001510 ,#00BF8F 100%);
+	}
+
+	#u100:hover
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#001510),color-stop(100%, #00BF8F));
+		background: -webkit-linear-gradient(left,#001510 ,#00BF8F 100%);
+		background: linear-gradient(to right,#001510 ,#00BF8F 100%);
+	}
+
+	#accordionu251,#u256
+	{
+		border-width: 0px;
+		background-color: transparent;
+	}
+
+	#u259-3
+	{
+		-webkit-transition-duration: 0.3s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: linear;
+		transition-duration: 0.3s;
+		transition-delay: 0s;
+		transition-timing-function: linear;
+		border-width: 0px;
+		background: transparent url("../images/ico_ham.svg") no-repeat right center;
+		background-size: contain;
+	}
+
+	#u259-3.AccordionPanelTabOpen
+	{
+		background: transparent url("../images/ico_ham_close.svg") no-repeat right center;
+		background-size: contain;
+	}
+
+	.nosvg #u259-3
+	{
+		background-image: url('../images/ico_ham_poster_u416.png');
+	}
+
+	.nosvg #u259-3.AccordionPanelTabOpen
+	{
+		background-image: url('../images/ico_ham_close_poster_u422.png');
+	}
+
+	#u257
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#001510),color-stop(100%, #00BF8F));
+		background: -webkit-linear-gradient(left,#001510 ,#00BF8F 100%);
+		background: linear-gradient(to right,#001510 ,#00BF8F 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF001510, endColorstr=#FF00BF8F, GradientType=1);
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF001510', endColorstr='#FF00BF8F', GradientType=1)";
+		border-width: 0px;
+		background-size: 100% auto;
+	}
+
+	#u433
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u433.png") no-repeat 0px 0px;
+	}
+
+	#u433:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u433-r.png") no-repeat 0px 0px;
+	}
+
+	#u468
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u468.png") no-repeat 0px 0px;
+	}
+
+	#u468:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u468-r.png") no-repeat 0px 0px;
+	}
+
+	#u480
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u480.png") no-repeat 0px 0px;
+	}
+
+	#u480:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u480-r.png") no-repeat 0px 0px;
+	}
+
+	#u445
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u445.png") no-repeat 0px 0px;
+	}
+
+	#u445:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u445-r.png") no-repeat 0px 0px;
+	}
+
+	#u446
+	{
+		vertical-align: top;
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u446.png") no-repeat 0px 0px;
+	}
+
+	#u446:hover
+	{
+		-webkit-transition-duration: 1s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 1s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		background: transparent url("../images/u446-r.png") no-repeat 0px 0px;
+	}
+
+	.AccordionPanelTab /* accordion */
+	{
+		cursor: pointer;
+	}
+
+	#u632
+	{
+		background-color: #ECEBEB;
+		background-color: rgba(232,230,230,0.8);
+	}
+
+	#u616_align_to_page
+	{
+		max-width: 900px;
+	}
+
+}
+
