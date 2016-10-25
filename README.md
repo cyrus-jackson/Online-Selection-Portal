@@ -2,7 +2,7 @@
 Online Selection Portal is a job seeking portal specially designed to ease the work for the recruiters.
 This website parses the data from the resume and provides a common standard template to all the job seekers.
 
-INSTRUCTIONS TO USE THE WEBSITE
+# INSTRUCTIONS TO USE THE WEBSITE
 
 For Job Seekers
 1. Create an account and select Job Seeker Profile
